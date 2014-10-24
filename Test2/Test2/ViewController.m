@@ -22,6 +22,8 @@
     //hotfix
     //feature2-1
     //feature2-2
+    
+    //hotfix2
 }
 
 - (void)didReceiveMemoryWarning {
