@@ -23,7 +23,11 @@
     //feature2-1
     //feature2-2
     
+<<<<<<< HEAD
     //hotfix2
+=======
+    //feature3-1
+>>>>>>> feature3
 }
 
 - (void)didReceiveMemoryWarning {
