@@ -19,7 +19,12 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     //feature1
+<<<<<<< HEAD
     //hotfix
+=======
+    //feature2-1
+    //feature2-2
+>>>>>>> 7412455... 1.2.0 - end feature2
 }
 
 - (void)didReceiveMemoryWarning {
